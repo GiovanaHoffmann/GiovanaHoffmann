@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Giovana]!
+# 👋 Hi, I'm Giovana!
 
 🎓 Student of Systems Analysis and Development | 💻 Back-end Developer | 📊 Data Analysis Enthusiast
 
