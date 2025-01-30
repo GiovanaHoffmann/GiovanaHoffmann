@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 - 🎂 I'm 21 years old and passionate about technology.
-- 📊 I am improving analytical skills using **Power BI**, **Python**, **SQL**, and **R**.
+- 📊 Improving my analytical skills using **Power BI**, **Python**, **SQL**, and **R**.
 - 🚀 I develop solutions using **Node.js**, **React**, **PostgreSQL**, and **MongoDB**.
 - 💡 Always eager to learn something new.
 
