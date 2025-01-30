@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giovana!
 
-🎓 Student of Systems Analysis and Development | 📊 Data Analysis | 💻 Back-end Developer 
+🎓 Systems Analysis and Development Student | 📊 Data Analysis | 💻 Back-end Developer 
 
 ---
 
