@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Giovana!
 
-🎓 Systems Analysis and Development Student | 📊 Data Analysis | 💻 Back-end Developer 
+🎓 Systems Analysis and Development Student | 🚀 Data Engineering | 📊 Data Analysis | 💻 Back-end Developer 
 
 ---
 
 ## 🌟 About Me
 - 🎂 I'm 21 years old and passionate about technology.
+- 🎯 Currently focused on starting a professional career in the Data field.
 - 📊 Improving my analytical skills using **Power BI**, **Python**, **SQL**, and **R**.
+- 💻 Learning and improving Data Engineering techniques (ETL).
 - 🚀 I develop solutions using **Node.js**, **React**, **PostgreSQL**, and **MongoDB**.
 - 💡 Always eager to learn something new.
 
@@ -31,7 +33,7 @@
 
 ## 🌱 What I’m Learning
 - Query optimization.
-- Best practices for RESTful APIs.
+- Data Pipelines.
 - Data Analysis techniques.
 - Machine Learning techniques.
 
