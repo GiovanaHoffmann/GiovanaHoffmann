@@ -56,9 +56,10 @@
 ---
 
 ## 🌱 What I’m Learning
-- SQL - Query optimization.
+- Cloud Computing. 
 - Best practices for pipeline construction.
 - Improving Data analysis techniques and storytelling.
+- SQL - Query optimization.
 - Machine learning techniques for image processing.
 
 ---
