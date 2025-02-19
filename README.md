@@ -8,7 +8,7 @@
 - 🎂 I'm 21 years old and passionate about technology.
 - 🎯 Currently focused on starting a professional career in the Data field.
 - 📊 Improving my analytical skills using **Power BI**, **Python**, **SQL**, and **R**.
-- 💻 Learning and improving Data Engineering techniques (ETL Pipelines).
+- 💻 Learning and improving Data Engineering techniques.
 - 🚀 I develop solutions using **Node.js**, **React**, **PostgreSQL**, and **MongoDB**.
 - 💡 Always eager to learn something new.
 
