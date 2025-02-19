@@ -33,13 +33,13 @@
 - **Goal**: Explore the distribution of numerical variables, identify correlations between attributes and the presence of the disease, and visualize trends and patterns in the data through statistical graphs.
 
 
-### ⚙️ [EDA - Marketing](https://github.com/GiovanaHoffmann/marketing-EDA.git) 
+### 📊 [EDA - Marketing](https://github.com/GiovanaHoffmann/marketing-EDA.git) 
 - **Description**: Exploratory analysis applied to a marketing dataset, aimed at understanding customer behavior patterns, identifying relevant insights, and assisting in data-driven decision-making.  
 - **Technologies**: Python, Pandas, Matplotlib, NumPy.  
 - **Goal**: Data cleaning and preprocessing, statistical and descriptive analysis, identifying consumption patterns, visualizing data with charts, and exploring relevant variables.
 
 
-### ⚙️ [EDA - Performance de Vendas](https://github.com/GiovanaHoffmann/AnaliseComercial-EDA.git)
+### 📊 [EDA - Performance de Vendas](https://github.com/GiovanaHoffmann/AnaliseComercial-EDA.git)
 - **Description**: Exploratory Data Analysis (EDA) project applied to a commercial dataset, focusing on sales performance. The goal is to extract valuable insights on purchase patterns, seasonality, product performance, and the most profitable regions.  
 - **Technologies**: Python, Pandas, Matplotlib, Plotly, Jupyter Notebook.  
 - **Goal**: Understand the distribution and volume of sales over time, identify top-performing and underperforming products, analyze regions or segments that generate more revenue, and detect seasonal trends and customer behavior patterns.
