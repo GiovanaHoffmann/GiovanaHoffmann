@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giovana!
 
-🎓 Tech Student | 📊 Data Analysis | 🚀 Data Engineering  | 💻 Back-end Developer 
+🎓 Tech Student | 📊 Data Analysis | 🚀 Data Engineering  
 
 ---
 
@@ -9,8 +9,8 @@
 - 🎯 Currently focused on starting a professional career in the Data field
 - 📊 Improving my analytical skills using **Python**, **SQL**,  **Excel** and **Power BI**
 - 💻 Learning and improving Data Engineering techniques and tools (PySpark, Airflow, n8n)
-- 🚀 I develop solutions using **Node.js**, **React**, **PostgreSQL**, and **MongoDB**
-- 💡 Always learning something new
+- 🚀 I have experience in developing solutions using **Node.js**, **Express** **React**, **PostgreSQL**, and **MongoDB**
+- 💡 Always learning something new and improving
 
 ---
 
