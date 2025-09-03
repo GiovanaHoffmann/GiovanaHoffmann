@@ -1,39 +1,38 @@
-# 👋 Hi, I'm Giovana!
+# 👋 Olá, eu sou a Giovana!
 
-🎓 Tech Student | 📊 Data Analysis | 🚀 Data Engineering  
-
----
-
-## 🌟 About Me
-- 🎂 I'm 21 years old and passionate about technology and the Data World
-- 🎯 Currently focused on starting a professional career in the Data field
-- 📊 Improving my analytical skills using **Python**, **SQL**,  **Excel** and **Power BI**
-- 💻 Learning and improving Data Engineering techniques and tools (PySpark, Airflow, n8n)
-- 🚀 I have experience in developing solutions using **Node.js**, **Express** **React**, **PostgreSQL**, and **MongoDB**
-- 💡 Always learning something new and improving
+🎓 Estudante de Tecnologia | 📊 Análise de Dados | 🚀 Engenharia de Dados
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages:** Python, SQL, JavaScript
+## 🌟 Sobre Mim
+- 🎂 Tenho 21 anos e sou apaixonada por tecnologia e pelo Mundo de Dados
+- 🎯 Atualmente focada em iniciar uma carreira profissional na área de Dados
+- 📊 Aprimorando minhas habilidades analíticas usando **Python**, **SQL**,  **Excel** e **Power BI**
+- 💻 Aprendendo e melhorando técnicas e ferramentas de Engenharia de Dados (PySpark, Airflow, n8n)
+- 🚀 Tenho experiência no desenvolvimento de soluções usando **Node.js**, **Express**, **React**, **PostgreSQL** e **MongoDB**
+- 💡 Sempre aprendendo algo novo e me aperfeiçoando
+
+---
+
+## 🛠️ Habilidades Técnicas
+- **Linguagens:** Python, SQL, JavaScript
 - **Front-end:** React.js, HTML, CSS
 - **Back-end:** Node.js, Express, Sequelize
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools and Others:** Docker, Git, Airflow, Power BI
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
+- **Ferramentas e Outros:** Docker, Git, Airflow, Power BI
 
 ---
 
-## 🌱 What I’m Learning
-- Cloud Computing 
-- Automation tools
-- Improving Data analysis techniques and storytelling
-- SQL - Query optimization
-- Machine learning
+## 🌱 O Que Estou Aprendendo
+- Computação em Nuvem (Cloud Computing)
+- Ferramentas de automação
+- Aprimorando técnicas de análise de dados e storytelling
+- SQL - Otimização de consultas
+- Aprendizado de máquina (Machine Learning)
 
 ---
 
-## 📬 Get in Touch
+## 📬 Entre em Contato
 - **LinkedIn:** [Giovana Hoffmann](https://www.linkedin.com/in/giovana-hoffmann-a53987255)
 - **Email:** giovanahoffmann09@gmail.com
-
 ---
