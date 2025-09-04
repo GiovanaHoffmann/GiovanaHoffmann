@@ -26,6 +26,10 @@ Pipeline ETL (**Python**) que coleta dados de qualidade do ar de todas as capita
 - 🗃️[Governança de Dados - Data Guard CRUD](https://github.com/GiovanaHoffmann/DataGuard_CRUD.git)
 Sistema MVP de gerenciamento de clientes com foco em aplicar conceitos de **governança de dados**, incluindo validação automatizada (CPF/e-mail), auditoria rastreável e soft delete. Evolução de um projeto CRUD básico para uma solução com compliance a LGPD, usando **PostgreSQL** e interface Tkinter modernizada.	**Python | Validação de Dados**
 
+
+- [GPU Price Pipeline](https://github.com/GiovanaHoffmann/mercadolivre-gpu-scraper.git)
+Fluxo automatizado de coleta (**web scraping com Python**), transformação e armazenamento (**PostgreSQL**) de informações sobre os preços de GPUs.	**Pipeline ETL | Docker**
+
 ---
 ## 🧠 Habilidades Técnicas
 - **Linguagens:** Python, SQL, JavaScript
