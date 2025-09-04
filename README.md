@@ -30,6 +30,10 @@ Sistema MVP de gerenciamento de clientes com foco em aplicar conceitos de **gove
 ##### 🔎[GPU Price Pipeline](https://github.com/GiovanaHoffmann/mercadolivre-gpu-scraper.git)
 Fluxo automatizado de coleta (**web scraping com Python**), transformação e armazenamento (**PostgreSQL**) de informações sobre os preços de GPUs.	**Pipeline ETL | Docker**
 
+
+##### 🖥️[Sistema de Gestão de Estoque de Doações](github.com/GiovanaHoffmann/backend-controle-de-estoque)
+Participei do processo de desenvolvimento, em dupla, do Backend de um sisema de gerenciamento de estoque, voltado para registro das arrecadações e distribuições de produtos de higiene menstrual. Projeto foi pensado para auxiliar o projeto de extenção Bons Fluidos da UTFPR-CP, focado em contribuir para a disponibilização gratuita de produtos de higiene menstrual para comunidades vuneráveis. Contribuí ativamente nas etapas de levantamento de requisitos, escolha da stack, modelagem de dados, integração com o banco e implementação dos CRUDS. Tecnologias: **Node.js**, **Express**, **Sequelize**, **PostgreSQL**, **JWT**, **bcrypt**, **dotenv**.
+
 ---
 ## 🧠 Habilidades Técnicas
 - **Linguagens:** Python, SQL, JavaScript
