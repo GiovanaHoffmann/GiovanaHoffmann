@@ -14,6 +14,15 @@
 
 ---
 
+## 🧠 Habilidades Técnicas
+- **Linguagens:** Python, SQL, JavaScript
+- **Front-end:** React.js, HTML, CSS
+- **Back-end:** Node.js, Express, Sequelize
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
+- **Ferramentas e Outros:** Docker, Git, Airflow, Power BI
+
+---
+
 ## 🛠️ Alguns Projetos
 ##### 📊[Processamento de Dados de Leitos Hospitalares](https://github.com/GiovanaHoffmann/prosessamento_dados_leitos_BR)
 Projeto de análise de dados públicos sobre leitos hospitalares no Brasil (2018–2025), utilizando **Python** para tratamento, limpeza, padronização e consolidação de arquivos brutos em CSV. Os dados processados serviram como base para visualizações analíticas e construção de dashboards no **Power BI**.
@@ -33,14 +42,6 @@ Fluxo automatizado de coleta (**web scraping com Python**), transformação e ar
 
 ##### 🖥️[Sistema de Gestão de Estoque de Doações](github.com/GiovanaHoffmann/backend-controle-de-estoque)
 Participei do processo de desenvolvimento, em dupla, do Backend de um sisema de gerenciamento de estoque, voltado para registro das arrecadações e distribuições de produtos de higiene menstrual. Projeto foi pensado para auxiliar o projeto de extenção Bons Fluidos da UTFPR-CP, focado em contribuir para a disponibilização gratuita de produtos de higiene menstrual para comunidades vuneráveis. Contribuí ativamente nas etapas de levantamento de requisitos, escolha da stack, modelagem de dados, integração com o banco e implementação dos CRUDS. Tecnologias: **Node.js**, **Express**, **Sequelize**, **PostgreSQL**, **JWT**, **bcrypt**, **dotenv**.
-
----
-## 🧠 Habilidades Técnicas
-- **Linguagens:** Python, SQL, JavaScript
-- **Front-end:** React.js, HTML, CSS
-- **Back-end:** Node.js, Express, Sequelize
-- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
-- **Ferramentas e Outros:** Docker, Git, Airflow, Power BI
 
 ---
 
