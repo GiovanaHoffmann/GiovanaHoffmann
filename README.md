@@ -32,6 +32,9 @@ Projeto de análise de dados públicos sobre leitos hospitalares no Brasil (2018
 Pipeline ETL (**Python**) que coleta dados de qualidade do ar de todas as capitais brasileiras usando a API do OpenWeatherMap, transforma os dados e os carrega em um banco de dados **PostgreSQL**. O pipeline é orquestrado pelo **Apache Airflow**, permitindo execuções automatizadas e monitoramento.	**Consumo de API | Docker**   
 
 
+##### 🛡️[Projeto de Detecção de Fraude de Cartão de Crédito](https://github.com/GiovanaHoffmann/CreditCard_Fraud_Detection.git)
+Projeto de Ciência de Dados que tem como objetivo identificar transações fraudulentas em um dataset de cartões de crédito. É um problema clássico de aprendizado de máquina com classes desbalanceadas, onde apenas 0.17% das transações são fraudulentas. **Python | Pandas | Scikit-learn | Seaborn**
+
 ##### 🗃️[Governança de Dados - Data Guard CRUD](https://github.com/GiovanaHoffmann/DataGuard_CRUD.git)
 Sistema MVP de gerenciamento de clientes com foco em aplicar conceitos de **governança de dados**, incluindo validação automatizada (CPF/e-mail), auditoria rastreável e soft delete. Evolução de um projeto CRUD básico para uma solução com compliance a LGPD, usando **PostgreSQL** e interface Tkinter modernizada.	**Python | Validação de Dados**
 
