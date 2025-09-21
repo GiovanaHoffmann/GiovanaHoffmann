@@ -15,11 +15,11 @@
 ---
 
 ## 🧠 Habilidades Técnicas
-- **Linguagens:** Python, SQL, JavaScript
-- **Front-end:** React.js, HTML, CSS
-- **Back-end:** Node.js, Express, Sequelize
-- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
-- **Ferramentas e Outros:** Docker, Git, Airflow, Power BI
+- **Linguagens:** <code>Python</code> <code>SQL</code> <code>JavaScript</code>
+- **Front-end:** <code>React.js</code> <code>HTML</code> <code>CSS</code>
+- **Back-end:** <code>Node.js</code> <code>Express</code> <code>Sequelize</code>
+- **Bancos de Dados:** <code>PostgreSQL</code> <code>MySQL</code> <code>MongoDB</code>
+- **Ferramentas e Outros:** <code>Docker</code> <code>Git</code> <code>Airflow</code> <code>Power BI</code>
 
 ---
 
