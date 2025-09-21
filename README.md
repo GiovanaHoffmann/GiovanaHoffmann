@@ -1,16 +1,13 @@
-# 👋 Olá, eu sou a Giovana!
+# Olá, eu sou a Giovana!
 
-🎓 Estudante de Tecnologia | 📊 Análise de Dados | 🚀 Engenharia de Dados
+### Estudante de Tecnologia | Data Driven | Análise de Dados
 
 ---
 
-## 🌟 Sobre Mim
+## Sobre Mim
 - 🎂 Tenho 21 anos e sou apaixonada por tecnologia e pelo Mundo de Dados
-- 🎯 Atualmente focada em iniciar uma carreira profissional na área de Dados
-- 📊 Aprimorando minhas habilidades analíticas usando **Python**, **SQL**,  **Excel** e **Power BI**
-- 💻 Aprendendo e melhorando técnicas e ferramentas de Engenharia de Dados (PySpark, Airflow, n8n)
-- 🚀 Tenho experiência no desenvolvimento de soluções usando **Node.js**, **Express**, **React**, **PostgreSQL** e **MongoDB**
-- 💡 Sempre aprendendo algo novo e me aperfeiçoando
+- 🎯 Atualmente, focada em iniciar uma carreira profissional na área de Dados
+- 🔎 Estou aprimorando minhas habilidades em Análise de Dados e explorando as áreas de Engenharia e Ciência de Dados
 
 ---
 
@@ -36,17 +33,11 @@ Projeto de análise de dados públicos sobre leitos hospitalares no Brasil (2018
 ##### ⚙️[Air Quality Pipeline](https://github.com/GiovanaHoffmann/air_quality_pipeline.git)
 Pipeline ETL (**Python**) que coleta dados de qualidade do ar de todas as capitais brasileiras usando a API do OpenWeatherMap, transforma os dados e os carrega em um banco de dados **PostgreSQL**. O pipeline é orquestrado pelo **Apache Airflow**, permitindo execuções automatizadas e monitoramento.	**Consumo de API | Docker**   
 
-
 ##### 🛡️[Projeto de Detecção de Fraude de Cartão de Crédito](https://github.com/GiovanaHoffmann/CreditCard_Fraud_Detection.git)
 Projeto de Ciência de Dados que tem como objetivo identificar transações fraudulentas em um dataset de cartões de crédito. É um problema clássico de aprendizado de máquina com classes desbalanceadas, onde apenas 0.17% das transações são fraudulentas. **Python | Pandas | Scikit-learn | Seaborn**
 
 ##### 🗃️[Governança de Dados - Data Guard CRUD](https://github.com/GiovanaHoffmann/DataGuard_CRUD.git)
 Sistema MVP de gerenciamento de clientes com foco em aplicar conceitos de **governança de dados**, incluindo validação automatizada (CPF/e-mail), auditoria rastreável e soft delete. Evolução de um projeto CRUD básico para uma solução com compliance a LGPD, usando **PostgreSQL** e interface Tkinter modernizada.	**Python | Validação de Dados**
-
-
-##### 🔎[GPU Price Pipeline](https://github.com/GiovanaHoffmann/mercadolivre-gpu-scraper.git)
-Fluxo automatizado de coleta (**web scraping com Python**), transformação e armazenamento (**PostgreSQL**) de informações sobre os preços de GPUs.	**Pipeline ETL | Docker**
-
 
 ##### 🖥️[Sistema de Gestão de Estoque de Doações](github.com/GiovanaHoffmann/backend-controle-de-estoque)
 Participei do processo de desenvolvimento, em dupla, do Backend de um sisema de gerenciamento de estoque, voltado para registro das arrecadações e distribuições de produtos de higiene menstrual. Projeto foi pensado para auxiliar o projeto de extenção Bons Fluidos da UTFPR-CP, focado em contribuir para a disponibilização gratuita de produtos de higiene menstrual para comunidades vuneráveis. Contribuí ativamente nas etapas de levantamento de requisitos, escolha da stack, modelagem de dados, integração com o banco e implementação dos CRUDS. Tecnologias: **Node.js**, **Express**, **Sequelize**, **PostgreSQL**, **JWT**, **bcrypt**, **dotenv**.
@@ -55,6 +46,7 @@ Participei do processo de desenvolvimento, em dupla, do Backend de um sisema de 
 
 ## 🌱 O Que Estou Aprendendo
 - Computação em Nuvem (Cloud Computing)
+- Técnicas e ferramentas de Engenharia de Dados (PySpark, Airflow, n8n)
 - Ferramentas de automação
 - Aprimorando técnicas de análise de dados e storytelling
 - SQL - Otimização de consultas
